@@ -23,8 +23,7 @@ class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
   // Replace with your actual BlipChat app key
-  static const _appKey =
-      'Y2xvdWRhcGlwcm9kOjVjNDJjNDYyLTVlYTYtNDEzZS1iNjJlLTY1ZDdiM2MyOTRlZQ==';
+  static const _appKey = 'Your appkey here';
 
   @override
   Widget build(BuildContext context) {
