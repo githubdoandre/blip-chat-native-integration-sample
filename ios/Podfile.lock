@@ -1,0 +1,23 @@
+PODS:
+  - BlipChat (3.1.1)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - BlipChat
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - BlipChat
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  BlipChat: d2394ad78b5ed2272912351fa7d6bcc25e30ae69
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+
+PODFILE CHECKSUM: eba42ad8721ea9898f5f39db87581701a8ead1cd
+
+COCOAPODS: 1.16.2
